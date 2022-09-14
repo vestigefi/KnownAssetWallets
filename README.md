@@ -7,9 +7,9 @@
 
 #### 
 
-##### 1. Fork this repository
+#### 1. Fork this repository
 
-##### 2. If not existent add a JSON file for your asset to /wallets
+#### 2. If not existent add a JSON file for your asset to /wallets
 
 **Filename:** _ASSET_ID_.json _(example: *700965019.json*)_
 
@@ -35,7 +35,7 @@ The transaction is **required** to contain a note with text:\
 
 If your project does not have access to creator and reserve wallets, send a detailed explanation to *team@vestige.fi* in order to have your wallet added
 
-##### 3. For additional wallets, simply expand your JSON file
+#### 3. For additional wallets, simply expand your JSON file
 
 ```json
 [
@@ -54,6 +54,6 @@ If your project does not have access to creator and reserve wallets, send a deta
 ]
 ```
 
-##### 4. Propose a Pull Request (PR) to merge your changes into this repository
+#### 4. Propose a Pull Request (PR) to merge your changes into this repository
 
 Updated wallets will be included into our circulating supply calculation within 7 days after verification
