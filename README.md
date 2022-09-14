@@ -9,7 +9,7 @@
 
 ##### 1. Fork this repository
 
-##### 2. If not existent add a JSON file for your asset 
+##### 2. If not existent add a JSON file for your asset to /wallets
 
 **Filename:** _ASSET_ID_.json _(example: *700965019.json*)_
 
