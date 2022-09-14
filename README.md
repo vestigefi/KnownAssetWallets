@@ -1,5 +1,5 @@
-## Vestige - Known ASA wallets repository
-A list of known wallets related to Algorand Standard Assets used for either team allocation or burns.
+![Frame 355570](https://user-images.githubusercontent.com/45147225/190176225-98a5bcf0-11cf-4818-bea7-21fecb0ac02c.png)
+## A list of known wallets related to Algorand Standard Assets used for either team allocation or burns.
 
 ### How to add a wallet:
 
