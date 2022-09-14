@@ -3,7 +3,7 @@
 
 ### How to add a wallet:
 
-###### CREATOR and RESERVE wallets attached to asset on chain are automatically included in circulating supply calculation and  need not be added
+**CREATOR** and **RESERVE** wallets attached to asset on chain are automatically included in circulating supply calculation and  need not be added
 
 #### 
 
