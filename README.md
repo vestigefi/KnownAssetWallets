@@ -15,7 +15,7 @@ A list of known wallets related to Algorand Standard Assets used for either team
 
 **Structure:**
 
-```json
+```js
 [
   {
     "address": YOUR_WALLET_ALGORAND_ADDRESS,
