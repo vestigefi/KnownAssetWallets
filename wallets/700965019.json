@@ -1,0 +1,14 @@
+[
+  {
+    "address": "VEST2A43254FW6XZYIRUL2RZPCR4M3BH35UPMRSMFS3YCBX5SYPQDIBSIU",
+    "type": "TEAM",
+    "txid": "AUJIVOA2XV4QXIO3K5UIJD7SOXPOTUF4MUMR63FBAGVVSUXCNU7Q",
+    "description": "Wallet used for TINY -> VEST swap SC creation."
+  },
+  {
+    "address": "VESTAGG6ZLWOESZQJWUWWBOCZSBVEDDT5AHHYZWBH4P2HLMNESGCLFSNVY",
+    "type": "TEAM",
+    "txid": "6ZIQOFXQHIIWWTZGDZGJLOJ5KOJX24QB33DTJXUYPUZAJKCYWUUA",
+    "description": "Wallet used for DEX aggregator fee allocation."
+  }
+]
