@@ -1,0 +1,26 @@
+[
+  {
+    "address": "KT5ALUJJOERGGZVDUAFU3NKJBZMH6GDRYX5562XX2BQJKCPPRH5BOEWOUU",
+    "type": "TEAM",
+    "txid": "GICNKENSUI5O4S4GPKY5AHGVNOJVJEDUQFL2BVSW4MS6JVGE4EOA",
+    "description": "Multi-Signature Wallet for transacting & delegating Project Funds" 
+  },
+  {
+    "address": "SMOKYBVUEZB23IRC7F44GGAV66ARPBVIIVN76COHLQT4WDFBARC6YLMDQE",
+    "type": "TEAM",
+    "txid": "YBBBQFHQTSKZVEQ256X2RKJ3DEB4OJABBBWHDDML6ZBKDOW4UG6Q",
+    "description": "Wallet for allocation to Project Manager SmokyMcPotts" 
+  },
+  {
+    "address": "D6WJZADUXE4AUEVVGZAZ45Y3VVQD5GTX73XA6FDX3ARROIX4IPVAWNIJFY",
+    "type": "TEAM",
+    "txid": "YCVG3DF4O7S6N3DKKIVXGXIS63DENBR3AM7YI4REEYRVEZVMC6UA",
+    "description": "Second wallet for allocation to Project Manager SmokyMcPotts" 
+  },
+  {
+    "address": "RUMIVQIUTCPW3GWDGQANKLA3SLOSBJUOU5XW7S6U27EI3HFXIXAEYP65SU",
+    "type": "TEAM",
+    "txid": "6CWXKZS7VMDAWNDXNA4R5JGKD6GROK6B7M2ICEKH44UYTPIL5R5Q",
+    "description": "Wallet for allocation to Project Manager loverumi" 
+  }
+]
