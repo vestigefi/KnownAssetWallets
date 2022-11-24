@@ -1,0 +1,14 @@
+[
+  {
+    "address": "SOCKSV3B6CDAE5R4BS5RZYEVMC3UGR4N76C3C7UZQ6KTTPLTI7DSXWMX6Y",
+    "type": "TEAM",
+    "txid": "7IBDDU2LGAJ7P4ABCMOKSESEJD7OGWFVGS2GSWHLGQOHPGENFBAA",
+    "description": "SockHodler Operations Wallet"
+  },
+  {
+    "address": "NNAAC25NMW5JB7EJJEK6QXFPU76RTXSEXULNCSNK2XQA4UCY7DG4GFLKVU",
+    "type": "TEAM",
+    "txid": "R45KBTLTXVUU2SD65LALD56XC6PK3TJX7UAPUH2XDBRTJDTJD4OQ",
+    "description": "SockHodler Community Distribution Wallet"
+  }
+]
