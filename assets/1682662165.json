@@ -1,0 +1,14 @@
+[
+  {
+    "address": "BNFIREKGRXEHCFOEQLTX3PU5SUCMRKDU7WHNBGZA4SXPW42OAHZBP7BPHY",
+    "type": "BURN",
+    "txid": "UUR5FDC76Y5BW3CSLCFJ7NXEHFXXCEGMCI2DFIBXQN2QIK3QY7PA",
+    "description": "Burn address using Bonfire, known ASA burning mechanism." 
+  }
+  {
+    "address": "BNFIREKGRXEHCFOEQLTX3PU5SUCMRKDU7WHNBGZA4SXPW42OAHZBP7BPHY",
+    "type": "BURN",
+    "txid": "RJZHW22ZEKOIG2HR7BBV6Y3KJBMR35OXJOUPREMYBATG5F3DJD3A",
+    "description": "Burn address using Bonfire, known ASA burning mechanism." 
+  }
+]
