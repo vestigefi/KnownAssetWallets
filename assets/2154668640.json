@@ -1,0 +1,14 @@
+[
+  {
+      "address": "4ZXXT4VAVBV3BTCBLZ6QRCJTEZP4VDPY3VM6KKHCHA6APD6O7XXAK3RWW4",
+      "type": "TEAM",
+      "txid": "LNWIHUAAQELFUBZAWJS5C7OSNAARPCFONHXLFNX2IX7V5NSV6S4A",
+      "description": "Wallet used for storing user rewards."
+  },
+  {
+      "address": "Y2YBEKV27IA4R7CQRIQN4XGL73XYSRUSF6FCKV2TMP5KNR2STJYNTU3AXU",
+      "type": "TEAM",
+      "txid": "ZPD655RPSSZTTIKXPEFBLOIQD6PFDZFZFGCOPRSK4OKTF3TMBEFA",
+      "description": "Wallet used for storing operational funds."
+  }
+]
