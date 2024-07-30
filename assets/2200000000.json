@@ -1,0 +1,50 @@
+[
+  {
+    "address": "3U545WASWTIA7XNNXI5QHWRAEJ4AXGYZINQZJY36SV32IRIZHXGAXCA2RY",
+    "type": "TEAM",
+    "txid": "",
+    "description": "investors.tinyman.algo" 
+  },
+  {
+    "address": "5AQLXAJRL3NRCCK4Y6SMZB6ODDZVKJE5G22CGDGZH7C22MQI3TFDIDXPAY",
+    "type": "TEAM",
+    "txid": "",
+    "description": "govrewards.tinyman.algo" 
+  },
+  {
+    "address": "H5JJ5TEU3XBUEZQLZS7JEYXAHKG6RJ72T3IL7FR2MUKAWYICRWVVHB3LT4",
+    "type": "TEAM",
+    "txid": "",
+    "description": "treasury1.tinyman.algo" 
+  },
+  {
+    "address": "F3PC2LTWDYCW5XT2ZAX5YS6HQW3KO7QCNDAEE57MMPDS6GKW6E3KDZUYZY",
+    "type": "TEAM",
+    "txid": "",
+    "description": "farmrewards.tinyman.algo" 
+  },
+  {
+    "address": "YQMQ77I4XSOUECQ6DEN2UNCYUIR3QRJOBDTIRHUGZUCUE4MAFOCR3UKN6Y",
+    "type": "TEAM",
+    "txid": "",
+    "description": "treasury2.tinyman.algo" 
+  },
+  {
+    "address": "FS7WOYMCOGIXKDLPVYT2BFJXI734SDFEAP23YI2WF4CVNRLROD74A7LR7U",
+    "type": "TEAM",
+    "txid": "",
+    "description": "treasury3.tinyman.algo" 
+  },
+  {
+    "address": "IH22SY64WWJWO233HVYMMLHNVB2KMX5BC7YSMGPBFFTOAZRWNMG32ZJJD4",
+    "type": "TEAM",
+    "txid": "",
+    "description": "airdrop.tinyman.algo" 
+  },
+  {
+    "address": "RQNIYIJRW3XUJG7FOJUNNWJNT2PE3WQMMDJ77TRQR62FOI6TSMXJUOFNDU",
+    "type": "TEAM",
+    "txid": "",
+    "description": "airdrop2.tinyman.algo" 
+  }
+]
