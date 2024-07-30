@@ -26,6 +26,8 @@
 ]
 ```
 
+**JSON file must be valid.** You can check the content using [jsonlint](https://jsonlint.com/).
+
 In case of burn wallets, a burn security mechanism explanation is **required** in the description field.
 
 **CONFIRMATION_TRANSACTION_ID** is a transaction id of a transaction coming out of your already known wallet (creator or reserve address) to the wallet that is requested to be added.
