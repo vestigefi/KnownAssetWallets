@@ -22,11 +22,5 @@
     "type": "TEAM",
     "txid": "WSF7MFRPX36YF2QFSLBAXUSF6SZ6ZGHDN3CQ44JFFIZIJKIKYHFQ",
     "description": "Rewards Wallet on Akita Staking Site [AKTA/ARBZ Pool]"
-  },
-  {
-    "address": "BNFIREKGRXEHCFOEQLTX3PU5SUCMRKDU7WHNBGZA4SXPW42OAHZBP7BPHY",
-    "type": "BURN",
-    "txid": "TWV6QCWZJZF3QMIDGNXZ62YBGPFP4U54XGIBRJ2ZWNHTU257VPNQ",
-    "description": "Bonfire Burn Wallet"
   }
 ]
