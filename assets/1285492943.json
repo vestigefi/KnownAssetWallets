@@ -1,0 +1,26 @@
+[
+  {
+    "address": "BAHBU3FRQUBX2SN6JJHADLZXSBC5RL3M2PUS3HR37YG6JFMDV4F7LRWCNM",
+    "type": "TEAM",
+    "txid": "SPXZ4ERCPKFXMWFVXONWXP6QYNBSYAVV4IXZIVHX233C6U23VZZQ",
+    "description": "Rewards Wallet on Akita Staking Site [ALGO/ARBZ Pool]"
+  },
+  {
+    "address": "7FBC25REPIVJWESMBJBCSW3JKGEI43QHEXJI4X7ARO7QWOL4HLTE72GPGM",
+    "type": "TEAM",
+    "txid": "2XF4DDSDR2VR3O66GO4PPJLR7W2YRG4NUR3QVM6LX3FZ3ZGLF33A",
+    "description": "Rewards Wallet on Akita Staking Site [USDC/ARBZ Pool]"
+  },
+  {
+    "address": "DWYBPCRUBJTM4XZ2OM3KCSFTRYZ4CQAF62OKH7F6IVRQ7KUFD4RZM56SHE",
+    "type": "TEAM",
+    "txid": "JBTZQEWU2ETF7FYA4AIYXD2OHO2BTIE7X3UI3AWZUX4IWXIM5MNA",
+    "description": "Rewards Wallet on Akita Staking Site [gALGO/ARBZ Pool]"
+  },
+  {
+    "address": "NQJJB3TBMRNOK3Q5ZYCBSWI6FDTBLAVK43VQYAVMGQAYP2MGV5KGD3GLOM",
+    "type": "TEAM",
+    "txid": "WSF7MFRPX36YF2QFSLBAXUSF6SZ6ZGHDN3CQ44JFFIZIJKIKYHFQ",
+    "description": "Rewards Wallet on Akita Staking Site [AKTA/ARBZ Pool]"
+  }
+]
